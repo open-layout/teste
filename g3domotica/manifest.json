@@ -1,0 +1,38 @@
+{
+  "name": "G3Domotica",
+  "version": "1.0",
+  "description": "desc",
+  "author": "AngleSad",
+  "category": "other",
+  "language": "es",
+  "repository": "https://github.com/AngleSad/G3Domotica",
+  "languages": [
+    "java"
+  ],
+  "color_palette": {
+    "color1": "#e7e0e0",
+    "color2": "#ce9d1f"
+  },
+  "images": [
+    "https://www.educaciontrespuntocero.com/wp-content/uploads/2020/04/mejores-bancos-de-imagenes-gratis.jpg"
+  ],
+  "requirements": [
+    "requirement"
+  ],
+  "frameworks": [
+    "eclipse"
+  ],
+  "collaborators": [
+    "collaborator"
+  ],
+  "live_preview": "preview.link",
+  "readme": "readme.link",
+  "tutorial": "tutorial.link",
+  "documentation": "docs.link",
+  "website": "dev.link",
+  "socials": {
+    "github": "AngleSad",
+    "discord": "AngleSad",
+    "x": "AngleSad"
+  }
+}
